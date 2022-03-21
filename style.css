@@ -1,0 +1,189 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+body 
+{
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.container{
+    margin:20px 80px ;
+}
+
+a, .s{
+    
+    color: #000;
+    text-decoration: none;
+    margin: 3px 1px 0px 18px;    
+    
+    font-size: 13px;
+}
+.logo{
+    
+    width: 110px;
+    height: 24px;
+    padding-left: 8px;
+    
+}
+.srch {
+   
+    width: 30px;
+    height: 25px;
+}
+.picture{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  
+    width: 50%;
+}
+
+.navbar-left{
+   float: right;
+}
+
+.cont-one ,.adds-one{
+    margin-left: 80px;
+    margin-right: 80px;
+}
+img ,item-one{
+    
+    width: 100%;
+    height: auto;
+}
+.center {
+    
+    position: absolute;
+    top: 40%;
+    left: 30%;
+    transform: translate(-50%, -50%);
+    font-size: 18px;
+}
+
+  /* main */
+.links {
+    
+margin: 83px 350px;         
+  }
+.box{
+    display: inline-flex;
+    
+}
+.item{
+    width: 110px;
+    
+    font-size: 15px;
+    font-weight: 600;
+    text-align: center;
+    list-style-type: none;
+    padding-left: 62px;
+    line-height: 20px;
+   
+}
+.item img{
+    padding-right: 13px;
+    width: 40px;
+    height: 40px;
+
+}
+
+/* images */
+.adds{
+   padding-left: 80px; 
+    width: 1200px;
+    height: 400px;
+}
+.gallery{ 
+    padding: 6px;   
+    width: 281px;
+    height: 159px;
+    font-size: 15px;
+    float: left;
+    box-sizing: 0px;
+}
+.desc{
+    padding: 16px;
+}
+.gallery h3{
+    font-size: 20px;
+}
+.gallery h4{
+    color: #0067b8;
+}
+.galllery h6{   
+    color: #000;
+}
+/*main p288*/
+.center-one{    position: absolute;
+    top: 220%;
+    left: 30%;
+    transform: translate(-50%, -50%);
+    font-size: 18px;
+}
+.adds-one{
+    width: 1200px;
+    height: 600px;
+}
+.adds-one h2{
+    padding: 30px 0;
+    
+}
+.gallery-one{
+    height: 440px;
+}
+.top{
+    background-color: rgb(223, 221, 221);
+    width: 100%;
+    height: 320px;
+  
+}
+.A {    
+    float: left;
+    padding: 13px;
+    text-align: left;
+    margin: 28px;
+    font-size: 19px;
+    
+}
+
+.A h5{
+    padding-bottom: 12px;
+    padding-left: 16px;
+}
+.A a{
+    padding-bottom: 18px;
+    font-size: 11px;
+}
+.mic ,.left-s{
+    
+    background-color: #d4d9dd;
+    text-align: right;
+    
+}
+.mic {
+    font-size: 12px;
+}
+.a {
+    
+   margin-left: 85px;
+    width: 500px;
+    height: 100px;
+}
+    li{
+    width: 30px;
+    height: 30px;
+    float: left;
+    list-style-type: none; 
+    padding: 10px;
+    
+}
+.follow{
+    padding: 5px;
+    font-size: 16px;
+    float: left;
+ color: #6c6e70;
+ padding-top: 12px;
+}
